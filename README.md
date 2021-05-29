@@ -8,6 +8,7 @@ using:
 ### Some code Challenges in this repo :'
 ```css
 /*Fade Effect*/
+
 @keyframes fade {
     from {
         opacity: 0.2;
@@ -18,8 +19,12 @@ using:
     }
 
 }
-```
 
+/*Blur Effect*/
+
+filter: blur(5px);
+
+```
 ```javascript
 // Target image inside a looped div
 
