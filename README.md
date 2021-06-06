@@ -6,7 +6,7 @@ using:
 - Javascript
 - Tilt.js
 
-### Note: Need to opened by Live Server (Dont know why :( )
+### Note: Need to opened by Live Server (Dont know why 🤷‍♀️ )
 
 ### Some code Challenges in this repo :'
 ```css
